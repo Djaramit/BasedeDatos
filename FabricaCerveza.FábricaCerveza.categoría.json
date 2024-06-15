@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "666a28e6eea40e1a48f9fda1"
+  },
+  "nombre_categoria": "ales",
+  "descripcion": "cerveza suave con 3 grados de alcohol ",
+  "precio": 12.5
+},
+{
+  "_id": {
+    "$oid": "666a28e6eea40e1a48f9fda2"
+  },
+  "nombre_categoria": "lager",
+  "descripcion": "cerveza amarga 4.5 grados de alcohol",
+  "precio": 13.4
+},
+{
+  "_id": {
+    "$oid": "666a28e6eea40e1a48f9fda3"
+  },
+  "nombre_categoria": "Spaten",
+  "descripcion": "cerveza seca con 5 grados de alcohol",
+  "precio": 10
+}]

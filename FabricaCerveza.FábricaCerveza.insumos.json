@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "666baf525798e4ad929707c2"
+  },
+  "nombre_cerveza": "lager"
+},
+{
+  "_id": {
+    "$oid": "666baf525798e4ad929707c3"
+  },
+  "materia_prima": [
+    {
+      "nombre": "cebada",
+      "cantidad_kg": 800
+    },
+    {
+      "nombre": "agua",
+      "cantidad_ml": 400
+    },
+    {
+      "nombre": "trigo",
+      "cantidad_kg": 100
+    },
+    {
+      "nombre": "azucar",
+      "cantidad_kg": 200
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666bb1705798e4ad929707c5"
+  },
+  "nombre_cerveza": "ales"
+},
+{
+  "_id": {
+    "$oid": "666bb1705798e4ad929707c6"
+  },
+  "materia_prima": [
+    {
+      "nombre": "malta",
+      "cantidad_kg": 1500
+    },
+    {
+      "nombre": "agua",
+      "cantidad_ml": 4000
+    },
+    {
+      "nombre": "trigo",
+      "cantidad_kg": 100
+    },
+    {
+      "nombre": "azucar",
+      "cantidad_kg": 200
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666bb2825798e4ad929707c8"
+  },
+  "nombre_cerveza": "Spaten"
+},
+{
+  "_id": {
+    "$oid": "666bb2825798e4ad929707c9"
+  },
+  "materia_prima": [
+    {
+      "nombre": "levadura",
+      "cantidad_kg": 200
+    },
+    {
+      "nombre": "agua",
+      "cantidad_ml": 4000
+    },
+    {
+      "nombre": "malta",
+      "cantidad_kg": 300
+    },
+    {
+      "nombre": "trigo",
+      "cantidad_kg": 100
+    },
+    {
+      "nombre": "azucar",
+      "cantidad_kg": 600
+    }
+  ]
+}]

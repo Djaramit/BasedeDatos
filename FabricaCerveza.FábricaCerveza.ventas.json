@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "777b426fffb51f2b59fa0eba"
+  },
+  "fecha_ventas": "2024-07-10",
+  "tipo_cerveza": "pilsner",
+  "cantidad_vendida": 25,
+  "unidad_medida": "litros",
+  "precio_total": 105,
+  "cliente": {
+    "nombre": "Ana Torres",
+    "email": "ana.torres@example.com",
+    "telefono": {
+      "$numberLong": "3201234567"
+    },
+    "ciudad": "barranquilla"
+  }
+},
+{
+  "_id": {
+    "$oid": "777b426fffb51f2b59fa0ebb"
+  },
+  "fecha_ventas": "2024-07-15",
+  "tipo_cerveza": "stout",
+  "cantidad_vendida": 75,
+  "unidad_medida": "litros",
+  "precio_total": 189,
+  "cliente": {
+    "nombre": "Carlos Fernandez",
+    "email": "carlos.fernandez@example.com",
+    "telefono": {
+      "$numberLong": "3112345678"
+    },
+    "ciudad": "cartagena"
+  }
+},
+{
+  "_id": {
+    "$oid": "777b426fffb51f2b59fa0ebc"
+  },
+  "fecha_ventas": "2024-07-20",
+  "tipo_cerveza": "ipa",
+  "cantidad_vendida": 200,
+  "unidad_medida": "litros",
+  "precio_total": 300,
+  "cliente": {
+    "nombre": "Lucia Martinez",
+    "email": "lucia.martinez@example.com",
+    "telefono": {
+      "$numberLong": "3223456789"
+    },
+    "ciudad": "bucaramanga"
+  }
+}]
